@@ -23,8 +23,18 @@
   text-align: center;
 }
 
+.link{
+  color: red;
+  background-color: aquamarine;
+  margin: auto;
+  padding: 50px;
+}
+
 .alert-text {
   color: red;
+  background-color: aquamarine;
+  margin:auto;
+  padding: 50px;
 }
 
 .subsection.header {
@@ -33,5 +43,7 @@
 
 .subsection#preview {
   color: blue;
+  border: blue;
+  margin: auto;
 }
 
